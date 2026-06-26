@@ -7,13 +7,17 @@
 ---
 
 ## `$ whoami`
-
-CS undergrad at **BITS Pilani** (CGPA 9.22) based in Bangalore. I build things end-to-end - from parsing pipelines and vector databases to product UIs and APIs. My focus is full-stack engineering with a strong pull towards AI systems: RAG pipelines, LLM evaluation, and production-grade ML infrastructure.
-
-Not here to build demos. Here to ship.
-
+ 
+CS undergrad at **BITS Pilani** (CGPA 9.22), based in **Bangalore**. I build full-stack applications and AI systems - end-to-end, production-grade, no shortcuts.
+ 
+My work spans the MERN stack, REST APIs, relational and vector databases, RAG pipelines, LLM evaluation, and multi-session memory systems. I take a product from wireframe to deployed backend to AI layer without switching hats. Strong in DSA and system design, which keeps the engineering underneath everything clean and scalable.
+ 
+I've co-founded a startup, contributed to a 5-person AI recruitment platform, and shipped AI tooling that actually works in production. Every project goes end-to-end.
+ 
+- 🎓 **BITS Pilani** - B.Sc. Computer Science, Class of 2028
+- 📍 **Bangalore, India**
+- 🔧 **Currently building** - full-stack AI products
 <br />
-
 ---
 
 ## `$ cat stack.json`
