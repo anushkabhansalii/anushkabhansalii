@@ -20,32 +20,33 @@ Not here to build demos. Here to ship.
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" valign="top" width="25%">
+    <td align="center" valign="top" width="20%">
       <br />
-      <img src="https://img.shields.io/badge/-Python-05070C?style=flat-square&logo=python&logoColor=3776AB" />
-      <img src="https://img.shields.io/badge/-JavaScript-05070C?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-      <img src="https://img.shields.io/badge/-TypeScript-05070C?style=flat-square&logo=typescript&logoColor=3178C6" />
-      <img src="https://img.shields.io/badge/-Java-05070C?style=flat-square&logo=openjdk&logoColor=ED8B00" />
-      <img src="https://img.shields.io/badge/-C++-05070C?style=flat-square&logo=cplusplus&logoColor=00599C" />
+      <img src="https://img.shields.io/badge/-Python-05070C?style=flat-square&logo=python&logoColor=3776AB" />&nbsp;
+      <img src="https://img.shields.io/badge/-JavaScript-05070C?style=flat-square&logo=javascript&logoColor=F7DF1E" />&nbsp;
+      <img src="https://img.shields.io/badge/-TypeScript-05070C?style=flat-square&logo=typescript&logoColor=3178C6" />&nbsp;
+      <img src="https://img.shields.io/badge/-Java-05070C?style=flat-square&logo=openjdk&logoColor=ED8B00" />&nbsp;
+      <img src="https://img.shields.io/badge/-C++-05070C?style=flat-square&logo=cplusplus&logoColor=00599C" />&nbsp;
       <img src="https://img.shields.io/badge/-SQL-05070C?style=flat-square&logo=postgresql&logoColor=4169E1" />
       <br /><sub><b>LANGUAGES</b></sub><br /><br />
     </td>
-    <td align="center" valign="top" width="25%">
+    <td align="center" valign="top" width="20%">
       <br />
-      <img src="https://img.shields.io/badge/-React-05070C?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/-Next.js-05070C?style=flat-square&logo=nextdotjs&logoColor=ffffff" />
-      <img src="https://img.shields.io/badge/-FastAPI-05070C?style=flat-square&logo=fastapi&logoColor=009688" />
-      <img src="https://img.shields.io/badge/-Node.js-05070C?style=flat-square&logo=nodedotjs&logoColor=5FA04E" />
+      <img src="https://img.shields.io/badge/-React-05070C?style=flat-square&logo=react&logoColor=61DAFB" />&nbsp;
+      <img src="https://img.shields.io/badge/-Next.js-05070C?style=flat-square&logo=nextdotjs&logoColor=ffffff" />&nbsp;
+      <img src="https://img.shields.io/badge/-Node.js-05070C?style=flat-square&logo=nodedotjs&logoColor=5FA04E" />&nbsp;
+      <img src="https://img.shields.io/badge/-Express-05070C?style=flat-square&logo=express&logoColor=ffffff" />&nbsp;
+      <img src="https://img.shields.io/badge/-FastAPI-05070C?style=flat-square&logo=fastapi&logoColor=009688" />&nbsp;
       <img src="https://img.shields.io/badge/-Streamlit-05070C?style=flat-square&logo=streamlit&logoColor=FF4B4B" />
-      <br /><sub><b>FRAMEWORKS</b></sub><br /><br />
+      <br /><sub><b>MERN + FRAMEWORKS</b></sub><br /><br />
     </td>
-    <td align="center" valign="top" width="25%">
+    <td align="center" valign="top" width="20%">
       <br />
-      <img src="https://img.shields.io/badge/-PostgreSQL-05070C?style=flat-square&logo=postgresql&logoColor=4169E1" />
-      <img src="https://img.shields.io/badge/-pgvector-05070C?style=flat-square&logo=postgresql&logoColor=A78BFA" />
-      <img src="https://img.shields.io/badge/-Milvus-05070C?style=flat-square&logo=milvus&logoColor=00A1EA" />
-      <img src="https://img.shields.io/badge/-MongoDB-05070C?style=flat-square&logo=mongodb&logoColor=47A248" />
-      <img src="https://img.shields.io/badge/-Docker-05070C?style=flat-square&logo=docker&logoColor=2496ED" />
+      <img src="https://img.shields.io/badge/-PostgreSQL-05070C?style=flat-square&logo=postgresql&logoColor=4169E1" />&nbsp;
+      <img src="https://img.shields.io/badge/-MongoDB-05070C?style=flat-square&logo=mongodb&logoColor=47A248" />&nbsp;
+      <img src="https://img.shields.io/badge/-pgvector-05070C?style=flat-square&logo=postgresql&logoColor=A78BFA" />&nbsp;
+      <img src="https://img.shields.io/badge/-Milvus-05070C?style=flat-square&logo=milvus&logoColor=00A1EA" />&nbsp;
+      <img src="https://img.shields.io/badge/-Docker-05070C?style=flat-square&logo=docker&logoColor=2496ED" />&nbsp;
       <img src="https://img.shields.io/badge/-GCP-05070C?style=flat-square&logo=googlecloud&logoColor=4285F4" />
       <br /><sub><b>INFRA & DATABASES</b></sub><br /><br />
     </td>
@@ -100,12 +101,12 @@ Built the PDF parsing and async batch resume upload pipeline for a 5-person team
 
 ---
 
-### ⬡ DocuMind - Zero-Cost Local RAG System
+### ⬡ DocuMind - NotebookLM Clone with RAG + Voice
 
-Production-grade local RAG system for document Q&A with voice and podcast-style audio output. Migrated the entire stack from OpenAI to free open-source alternatives - Groq (Llama 3.3 70B) + BAAI Embeddings + Milvus Lite - with no performance degradation. Multi-session memory via Zep Cloud. Supports documents, charts, and audio generation. Runs at zero API cost.
+Document-grounded AI assistant that grounds every answer in your source material with accurate citations. Supports PDF, audio, YouTube, web pages, and text. Migrated the full stack from OpenAI to open-source alternatives (Groq Llama 3.3 70B + BAAI Embeddings + Milvus Lite) with zero performance loss. Multi-session memory via Zep temporal knowledge graphs. Includes AI podcast generation with multi-speaker TTS. Runs at zero API cost.
 
 <div align="center">
-  <img src="assets/coming-soon.svg" width="100%" alt="DocuMind - coming soon" />
+  <img src="assets/documind.svg" width="100%" alt="DocuMind - NotebookLM Clone with RAG and Voice" />
 </div>
 
 **Stack:** Groq (Llama 3.3 70B) · BAAI Embeddings · Milvus Lite · Zep Cloud · Streamlit
