@@ -1,56 +1,63 @@
 <div align="center">
-  <img src="assets/hero.svg" width="100%" alt="Anushka Jain — AI/ML Engineer & Builder" />
+  <img src="assets/hero.svg" width="100%" alt="Anushka Jain - Full Stack & AI/ML Engineer" />
 </div>
 
 <br />
 
 ---
 
-## `>_ WHAT I BUILD`
+## `$ whoami`
 
-I'm a Computer Science student at **BITS Pilani** (CGPA: 9.22) who builds real AI systems — not tutorials, not wrappers. I've co-founded a startup, shipped evaluation pipelines that rival human accuracy, and worked across product, growth, and engineering at companies like Emergent and Canvas & Co.
+CS undergrad at **BITS Pilani** (CGPA 9.22) based in Bangalore. I build things end-to-end - from parsing pipelines and vector databases to product UIs and APIs. My focus is full-stack engineering with a strong pull towards AI systems: RAG pipelines, LLM evaluation, and production-grade ML infrastructure.
 
-My focus right now: **LLM evaluation infrastructure**, **RAG systems**, and **full-stack AI products** that actually work in production.
-
-- 🎓 **BITS Pilani** — B.Sc. Computer Science, Class of 2028
-- 🏗 **Co-Founder** @ Gradonix — AI-powered exam evaluation
-- 📍 **Bangalore, IN** → Pilani, IN
+Not here to build demos. Here to ship.
 
 <br />
 
 ---
 
-## `>_ STACK`
+## `$ cat stack.json`
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" valign="top">
-      <b>AI / ML</b><br  />
-      PyTorch · scikit-learn<br/>
-      LLM APIs (Groq, Gemini, OpenAI)<br/>
-      RAG Pipelines · OCR<br/>
-      pgvector · BAAI Embeddings<br/>
-      Grad-CAM · NumPy · pandas
+    <td align="center" valign="top" width="25%">
+      <br />
+      <img src="https://img.shields.io/badge/-Python-05070C?style=flat-square&logo=python&logoColor=3776AB" />
+      <img src="https://img.shields.io/badge/-JavaScript-05070C?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+      <img src="https://img.shields.io/badge/-TypeScript-05070C?style=flat-square&logo=typescript&logoColor=3178C6" />
+      <img src="https://img.shields.io/badge/-Java-05070C?style=flat-square&logo=openjdk&logoColor=ED8B00" />
+      <img src="https://img.shields.io/badge/-C++-05070C?style=flat-square&logo=cplusplus&logoColor=00599C" />
+      <img src="https://img.shields.io/badge/-SQL-05070C?style=flat-square&logo=postgresql&logoColor=4169E1" />
+      <br /><sub><b>LANGUAGES</b></sub><br /><br />
     </td>
-    <td align="center" valign="top">
-      <b>LANGUAGES</b><br  />
-      Python · JavaScript<br/>
-      SQL (PostgreSQL)<br/>
-      Java · C++<br/>
-      HTML / CSS
+    <td align="center" valign="top" width="25%">
+      <br />
+      <img src="https://img.shields.io/badge/-React-05070C?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/-Next.js-05070C?style=flat-square&logo=nextdotjs&logoColor=ffffff" />
+      <img src="https://img.shields.io/badge/-FastAPI-05070C?style=flat-square&logo=fastapi&logoColor=009688" />
+      <img src="https://img.shields.io/badge/-Node.js-05070C?style=flat-square&logo=nodedotjs&logoColor=5FA04E" />
+      <img src="https://img.shields.io/badge/-Streamlit-05070C?style=flat-square&logo=streamlit&logoColor=FF4B4B" />
+      <br /><sub><b>FRAMEWORKS</b></sub><br /><br />
     </td>
-    <td align="center" valign="top">
-      <b>BACKEND & INFRA</b><br  />
-      FastAPI · Node.js<br/>
-      PostgreSQL · Milvus<br/>
-      Docker · Git · Linux<br/>
-      Google Cloud Platform
+    <td align="center" valign="top" width="25%">
+      <br />
+      <img src="https://img.shields.io/badge/-PostgreSQL-05070C?style=flat-square&logo=postgresql&logoColor=4169E1" />
+      <img src="https://img.shields.io/badge/-pgvector-05070C?style=flat-square&logo=postgresql&logoColor=A78BFA" />
+      <img src="https://img.shields.io/badge/-Milvus-05070C?style=flat-square&logo=milvus&logoColor=00A1EA" />
+      <img src="https://img.shields.io/badge/-MongoDB-05070C?style=flat-square&logo=mongodb&logoColor=47A248" />
+      <img src="https://img.shields.io/badge/-Docker-05070C?style=flat-square&logo=docker&logoColor=2496ED" />
+      <img src="https://img.shields.io/badge/-GCP-05070C?style=flat-square&logo=googlecloud&logoColor=4285F4" />
+      <br /><sub><b>INFRA & DATABASES</b></sub><br /><br />
     </td>
-    <td align="center" valign="top">
-      <b>FRONTEND & DESIGN</b><br  />
-      React · Streamlit<br/>
-      Figma<br/>
-      HTML / CSS
+    <td align="center" valign="top" width="25%">
+      <br />
+      <img src="https://img.shields.io/badge/-PyTorch-05070C?style=flat-square&logo=pytorch&logoColor=EE4C2C" />
+      <img src="https://img.shields.io/badge/-scikit--learn-05070C?style=flat-square&logo=scikitlearn&logoColor=F7931E" />
+      <img src="https://img.shields.io/badge/-Groq-05070C?style=flat-square&logo=groq&logoColor=ffffff" />
+      <img src="https://img.shields.io/badge/-Gemini-05070C?style=flat-square&logo=google&logoColor=4285F4" />
+      <img src="https://img.shields.io/badge/-OpenAI-05070C?style=flat-square&logo=openai&logoColor=ffffff" />
+      <img src="https://img.shields.io/badge/-Figma-05070C?style=flat-square&logo=figma&logoColor=F24E1E" />
+      <br /><sub><b>AI / ML & DESIGN</b></sub><br /><br />
     </td>
   </tr>
 </table>
@@ -59,89 +66,81 @@ My focus right now: **LLM evaluation infrastructure**, **RAG systems**, and **fu
 
 ---
 
-## `>_ SHIPPED PROJECTS`
+## `$ ls -la ./projects`
 
-### ⬡ **Gradonix** — AI Exam Evaluation Engine
+### ⬡ Gradonix - LLM Exam Evaluation Engine
 
-Co-founded. Architected the full OCR + LLM scoring pipeline end-to-end. 94.3% agreement with human evaluators across 300+ answer sheets. 60% reduction in grading time. 200+ educator registrations.
+OCR plus LLM-based answer scoring pipeline built from scratch. Achieved 94.3% agreement with human evaluators across 300+ answer sheets - 60% faster than manual grading. Designed full product UX in Figma, ran usability testing with 20+ educators, drove outreach to 200+ registrations.
 
 <div align="center">
-  <img src="assets/gradonix.svg" width="100%" alt="Gradonix Pipeline: Answer Sheet → OCR Parse → LLM Judge → Score Report" />
+  <img src="assets/gradonix.svg" width="100%" alt="Gradonix - Answer Sheet to OCR to LLM Judge to Score Report" />
 </div>
 
-**`[FULL PIPELINE]`** Answer Sheet Scan → OCR + PDF Parse → LLM Judge Matrix → Grade + Report
+**Pipeline:** Answer Sheet Scan → OCR + PDF Parse → LLM Judge Matrix → Grade Report
 
-**Key work:** Built the core scoring model, designed full product UI/UX in Figma, ran usability testing with 20+ educators, drove outreach.
+**Stack:** Python · OCR · LLM APIs · Figma · FastAPI
 
-`STEALTH MODE` · `CO-FOUNDED`
+[![Live](https://img.shields.io/badge/LIVE-gradonix.com-7C3AED?style=flat-square&logo=vercel&logoColor=white)](https://gradonix.com/)
 
 ---
 
-### ⬡ **Recruitify** — AI Recruitment Platform
+### ⬡ Recruitify - AI Recruitment Platform
 
-Built the PDF parsing and async batch resume upload pipeline. Implemented semantic candidate ranking via pgvector embeddings. Integrated LLM-based bias detection in job descriptions. Caught and rolled back unauthorized file changes introduced by an AI coding agent mid-sprint.
+Built the PDF parsing and async batch resume upload pipeline for a 5-person team. Semantic candidate ranking via pgvector embeddings. Integrated LLM-based bias detection in job descriptions. Caught and rolled back unauthorized file changes introduced by an AI coding agent mid-sprint.
 
 <div align="center">
-  <img src="assets/recruitify.svg" width="100%" alt="Recruitify Pipeline: Resume Upload → OCR Parse → pgvector Embed + Rank → Bias Detection → Interview Schedule" />
+  <img src="assets/recruitify.svg" width="100%" alt="Recruitify - Resume Upload to Embed and Rank to Bias Detection to Interview Schedule" />
 </div>
 
-**`[FULL PIPELINE]`** Resume Upload → OCR/Parse → Embed → Rank → Bias Flag → Interview Scheduling
+**Pipeline:** Resume Upload → OCR/Parse → Embed → Rank → Bias Flag → Interview Scheduling
 
 **Stack:** FastAPI · PostgreSQL (pgvector) · Next.js · Google Gemini · pdfplumber
 
-`5-PERSON TEAM` · `DEPLOYED`
+[![Live](https://img.shields.io/badge/LIVE-recruitify.vercel.app-84CC16?style=flat-square&logo=vercel&logoColor=black)](https://recruitify-mu-rosy.vercel.app/)
 
 ---
 
-### ⬡ **NotebookLM Clone** — Zero-Cost RAG System
+### ⬡ DocuMind - Zero-Cost Local RAG System
 
-Production-grade local RAG system for document Q&A. Migrated entire stack from OpenAI to free open-source alternatives — Groq (Llama 3.3 70B) + BAAI Embeddings + Milvus Lite — with no performance degradation. Multi-session memory via Zep Cloud. Runs at zero API cost.
+Production-grade local RAG system for document Q&A with voice and podcast-style audio output. Migrated the entire stack from OpenAI to free open-source alternatives - Groq (Llama 3.3 70B) + BAAI Embeddings + Milvus Lite - with no performance degradation. Multi-session memory via Zep Cloud. Supports documents, charts, and audio generation. Runs at zero API cost.
 
 <div align="center">
-  <img src="assets/coming-soon.svg" width="100%" alt="More projects in progress" />
+  <img src="assets/coming-soon.svg" width="100%" alt="DocuMind - coming soon" />
 </div>
 
 **Stack:** Groq (Llama 3.3 70B) · BAAI Embeddings · Milvus Lite · Zep Cloud · Streamlit
 
-`ZERO API COST` · `PRODUCTION GRADE`
+`ZERO API COST` &nbsp; `RAG + VOICE + AUDIO`
 
 <br />
 
 ---
 
-## `>_ EXPERIENCE TRAIL`
+## `$ git log --stat`
 
-| Timeline | Role | Where |
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anushkabhansalii&show_icons=true&theme=transparent&hide_border=true&title_color=A78BFA&icon_color=84CC16&text_color=C4B5FD&bg_color=050810" width="48%" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anushkabhansalii&theme=transparent&hide_border=true&ring=7C3AED&fire=84CC16&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=4B5563&stroke=1E1E35&background=050810" width="48%" alt="GitHub Streak" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkabhansalii&layout=compact&theme=transparent&hide_border=true&title_color=A78BFA&text_color=C4B5FD&bg_color=050810" width="40%" alt="Top Languages" />
+</div>
+
+<br />
+
+---
+
+## `$ ping anushka.build`
+
+| Interface | Endpoint | Status |
 | :--- | :--- | :--- |
-| **2025** | Co-Founder | Gradonix |
-| **May – July 2025** | Product & Growth Intern | Emergent |
-| **Nov 2025** | Content & Growth Intern | InterviewBit (Scaler) |
-| **Dec 2025** | Research & Concept Intern | Canvas & Co. |
-
-<br />
-
----
-
-## `>_ NUMBERS`
-
-```
-94.3%  →  scoring agreement with human evaluators (Gradonix)
- 200+  →  educator registrations on first push
-  60%  →  reduction in grading time
-   5x  →  zero API cost migration (NotebookLM Clone)
-73000  →  organic impressions generated (Scaler content sprint)
-```
-
-<br />
-
----
-
-## `>_ CONNECT`
-
-| Interface | Address | Status |
-| :--- | :--- | :--- |
-| 💼 **LinkedIn** | [anushka-jainn](https://linkedin.com/in/anushka-jainn) | `ACTIVE` |
-| 💻 **GitHub** | [anushkabhansalii](https://github.com/anushkabhansalii) | `ACTIVE` |
+| 🌐 **Portfolio** | [anushka.build](#) *(coming soon)* | `BUILDING` |
+| 💼 **LinkedIn** | [linkedin.com/in/anushka-jainn](https://linkedin.com/in/anushka-jainn) | `ACTIVE` |
+| 💻 **GitHub** | [github.com/anushkabhansalii](https://github.com/anushkabhansalii) | `ACTIVE` |
 | 📧 **Email** | anushkaj460@gmail.com | `OPEN` |
 
 <br />
@@ -151,5 +150,5 @@ Production-grade local RAG system for document Q&A. Migrated entire stack from O
 > `[LOG]` *"I don't build to learn. I learn because I have to ship."*
 
 <div align="center">
-  <sub>BITS PILANI · AI/ML · FULL STACK · CO-FOUNDER // STATUS: BUILDING</sub>
+  <sub>BITS PILANI · FULL STACK · AI/ML · BANGALORE // STATUS: BUILDING</sub>
 </div>
