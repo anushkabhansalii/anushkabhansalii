@@ -1,0 +1,47 @@
+<svg width="860" height="160" viewBox="0 0 860 160" xmlns="http://www.w3.org/2000/svg">
+  <rect width="860" height="160" fill="#0d1117" rx="8"/>
+  <rect x="0" y="0" width="860" height="2" fill="#58a6ff"/>
+  <rect x="0" y="0" width="2" height="160" fill="#58a6ff"/>
+
+  <!-- Title -->
+  <text x="24" y="30" font-family="JetBrains Mono, monospace" font-size="13" fill="#58a6ff" font-weight="700">GRADONIX</text>
+  <text x="24" y="48" font-family="JetBrains Mono, monospace" font-size="10" fill="#3fb950">AI-POWERED EVALUATION ENGINE  ·  CO-FOUNDED  ·  BUILT 0 TO 1</text>
+
+  <!-- Pipeline boxes -->
+  <!-- Box 1 -->
+  <rect x="24" y="68" width="130" height="48" rx="4" fill="#161b22" stroke="#21262d" stroke-width="0.8"/>
+  <text x="89" y="88" font-family="JetBrains Mono, monospace" font-size="9" fill="#8b949e" text-anchor="middle">INPUT</text>
+  <text x="89" y="104" font-family="JetBrains Mono, monospace" font-size="11" fill="#e6edf3" text-anchor="middle" font-weight="700">Answer Sheet</text>
+
+  <!-- Arrow 1 -->
+  <line x1="154" y1="92" x2="194" y2="92" stroke="#21262d" stroke-width="1"/>
+  <polygon points="194,88 202,92 194,96" fill="#21262d"/>
+
+  <!-- Box 2 -->
+  <rect x="202" y="68" width="130" height="48" rx="4" fill="#161b22" stroke="#21262d" stroke-width="0.8"/>
+  <text x="267" y="88" font-family="JetBrains Mono, monospace" font-size="9" fill="#8b949e" text-anchor="middle">PROCESS</text>
+  <text x="267" y="104" font-family="JetBrains Mono, monospace" font-size="11" fill="#e6edf3" text-anchor="middle" font-weight="700">OCR Engine</text>
+
+  <!-- Arrow 2 -->
+  <line x1="332" y1="92" x2="372" y2="92" stroke="#21262d" stroke-width="1"/>
+  <polygon points="372,88 380,92 372,96" fill="#21262d"/>
+
+  <!-- Box 3 - highlighted -->
+  <rect x="380" y="62" width="160" height="60" rx="4" fill="#0d2137" stroke="#58a6ff" stroke-width="1"/>
+  <text x="460" y="83" font-family="JetBrains Mono, monospace" font-size="9" fill="#58a6ff" text-anchor="middle">EVALUATION NODE</text>
+  <text x="460" y="99" font-family="JetBrains Mono, monospace" font-size="12" fill="#e6edf3" text-anchor="middle" font-weight="700">GRADONIX</text>
+  <text x="460" y="113" font-family="JetBrains Mono, monospace" font-size="9" fill="#8b949e" text-anchor="middle">LLM Judge Matrix</text>
+
+  <!-- Arrow 3 -->
+  <line x1="540" y1="92" x2="580" y2="92" stroke="#58a6ff" stroke-width="1"/>
+  <polygon points="580,88 588,92 580,96" fill="#58a6ff"/>
+
+  <!-- Box 4 -->
+  <rect x="588" y="68" width="160" height="48" rx="4" fill="#161b22" stroke="#21262d" stroke-width="0.8"/>
+  <text x="668" y="88" font-family="JetBrains Mono, monospace" font-size="9" fill="#8b949e" text-anchor="middle">OUTPUT</text>
+  <text x="668" y="104" font-family="JetBrains Mono, monospace" font-size="11" fill="#3fb950" text-anchor="middle" font-weight="700">94.3% Accuracy</text>
+
+  <!-- Bottom stats -->
+  <text x="24" y="148" font-family="JetBrains Mono, monospace" font-size="9" fill="#30363d">300+ sheets evaluated  ·  60% less grading time  ·  200+ educator signups</text>
+  <text x="750" y="148" font-family="JetBrains Mono, monospace" font-size="9" fill="#3fb950" text-anchor="middle">● LIVE</text>
+</svg>
